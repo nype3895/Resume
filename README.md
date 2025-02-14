@@ -1,4 +1,3 @@
-[Nylah's Resume.pdf](https://github.com/user-attachments/files/18791562/Nylah.s.Resume.pdf)
 import React, { useState } from 'react';
 import { User, Medal, Camera, Briefcase, GraduationCap, Instagram, Mail, Phone, Sun, Moon } from 'lucide-react';
 import { Switch } from '@/components/ui/switch';
