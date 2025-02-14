@@ -1,5 +1,6 @@
 ![Portfolio AI](https://github.com/user-attachments/assets/efcf7a55-6b7e-4126-90b6-d868f308b9f1)
 
+Portfolio Website
 I attempted to create a portfolio website using Claude.ai. While the AI-generated design provided a good starting point, I encountered several functionality issues that prevented the site from working as intended.
 
 Positive Outcomes
